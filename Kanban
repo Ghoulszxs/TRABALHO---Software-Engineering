@@ -1,0 +1,14 @@
+Criamos um quadro com colunas:
+
+Lista de pendência
+Preparar
+Em andamento
+Feito
+
+E adicionamos tarefas (cards), como:
+
+Criar servidor
+Criar rotas
+Criar testes
+Configurar CI
+Criar README
